@@ -49,7 +49,7 @@ export const config = {
         // 在一起的日子
         {"keyword": "love_day", date: "2019-12-14"},
         // 结婚纪念日
-        {"keyword": "marry_day", date: "2022-12-24"},
+        {"keyword": "marry_day", date: "2022-12-24"},],
         
     },
     {
@@ -70,7 +70,7 @@ export const config = {
         // 在一起的日子
         {"keyword": "love_day", date: "2019-12-14"},
         // 结婚纪念日
-        {"keyword": "marry_day", date: "2022-12-24"},]
+        {"keyword": "marry_day", date: "2022-12-24"},],
     },
     {
       name: "小号",
@@ -90,7 +90,7 @@ export const config = {
       // 在一起的日子
         {"keyword": "love_day", date: "2019-12-14"},
         // 结婚纪念日
-        {"keyword": "marry_day", date: "2022-12-24"},]
+        {"keyword": "marry_day", date: "2022-12-24"},],
     },
     
     // 你可以不断按格式往下增加
